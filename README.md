@@ -16,6 +16,7 @@ The primary goal of BookSage is to make the knowledge from self-help books more 
 - **Cross-Book Knowledge**: Combine insights from multiple books to offer a comprehensive understanding or solution to your queries.
 - **Problem Solving**: Get practical solutions to personal challenges using proven methods and techniques from the books.
 - **Personalized Learning Paths**: Tailor your learning experience and track progress based on your goals and interests.
+- **Topic Mapping**: Explore related concepts across multiple books. 
 
 ## **Technology Stack**
 
