@@ -19,8 +19,4 @@ The primary goal of BookSage is to make the knowledge from self-help books more 
 - **Topic Mapping**: Explore related concepts across multiple books. 
 
 ## **Technology Stack**
-
-- **Language Model**: Open-source LLM (e.g., GPT-based models from Hugging Face)
-- **Framework**: Haystack for implementing Retrieval-Augmented Generation (RAG)
-- **Database**: FAISS for vector storage and retrieval
-- **Deployment**: Streamlit for an interactive and user-friendly interface
+To be Explored..
